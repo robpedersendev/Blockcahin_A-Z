@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045cbae4-e11b-4af9-bfa8-18b5c193bcc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZS39qybeVGa8jge6YxdnhcHJr4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045cbae4-e11b-4af9-bfa8-18b5c193bcc9" name="Default Changelist" comment="" />
+      <created>1584818520016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584818520016</updated>
+      <workItem from="1584818544909" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="1815" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584818626039">
+      <screen x="5" y="1440" width="2498" height="1440" />
+    </state>
+    <state x="708" y="1815" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1584818626039" />
+  </component>
+</project>
