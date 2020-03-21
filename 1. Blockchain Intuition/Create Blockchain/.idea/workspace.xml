@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045cbae4-e11b-4af9-bfa8-18b5c193bcc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockain.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockain.py" afterDir="false" />
     </list>
@@ -26,7 +25,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584818520016</updated>
       <workItem from="1584818544909" duration="229000" />
-      <workItem from="1584819856495" duration="352000" />
+      <workItem from="1584819856495" duration="3014000" />
     </task>
     <servers />
   </component>
@@ -51,5 +50,9 @@
       <screen x="5" y="1440" width="2498" height="1440" />
     </state>
     <state x="708" y="1815" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1584818626039" />
+    <state x="-1181" y="1446" key="SettingsEditor" timestamp="1584820360180">
+      <screen x="-2555" y="1440" width="2498" height="1440" />
+    </state>
+    <state x="-1181" y="1446" key="SettingsEditor/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@-2555.1440.2498.1440" timestamp="1584820360180" />
   </component>
 </project>
