@@ -14,14 +14,14 @@ class Blockchain:
 
     def create_block(self, proof, previous_hash):
 
-
+        # Create a new block
         block={'index' : len(self.chain) + 1,
                'timestamp': str(datetime.datetime.now()),
                'proof': proof,
                'previous_hash': previous_hash}
                 self.chain.append(block)
                 return block
-
+        # Retrieve last block in list
         def get_previous_block(self):
             return self.chain[-1]
 
