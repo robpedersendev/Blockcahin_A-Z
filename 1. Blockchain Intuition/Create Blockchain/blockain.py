@@ -66,9 +66,5 @@ class Blockchain:
 # Creating a Web App
 app = Flask(__name__)
 
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
-
 # Creating a BlockChain
-
+blockchain = Blockchain()
