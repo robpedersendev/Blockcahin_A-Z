@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045cbae4-e11b-4af9-bfa8-18b5c193bcc9" name="Default Changelist" comment="Added the hash and is_chain_valid function to the blockain.py file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockain.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
       <updated>1584818520016</updated>
       <workItem from="1584818544909" duration="229000" />
       <workItem from="1584819856495" duration="4079000" />
-      <workItem from="1585008089108" duration="3021000" />
+      <workItem from="1585008089108" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="Added the hash and is_chain_valid function to the blockain.py file">
       <created>1585022786251</created>
