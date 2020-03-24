@@ -39,7 +39,7 @@
       <updated>1584818520016</updated>
       <workItem from="1584818544909" duration="229000" />
       <workItem from="1584819856495" duration="4079000" />
-      <workItem from="1585008089108" duration="3485000" />
+      <workItem from="1585008089108" duration="4293000" />
     </task>
     <task id="LOCAL-00001" summary="Added the hash and is_chain_valid function to the blockain.py file">
       <created>1585022786251</created>
@@ -90,5 +90,9 @@
       <screen x="5" y="1440" width="2498" height="1440" />
     </state>
     <state x="917" y="1765" width="672" height="678" key="search.everywhere.popup/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1585022175046" />
+    <state x="976" y="2072" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585024889239">
+      <screen x="5" y="1440" width="2498" height="1440" />
+    </state>
+    <state x="976" y="2072" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1585024889239" />
   </component>
 </project>
