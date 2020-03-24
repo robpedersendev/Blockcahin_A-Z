@@ -61,3 +61,14 @@ class Blockchain:
 
 
 # Part 2 - Mining our blockchain
+
+
+# Creating a Web App
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+
+# Creating a BlockChain
+

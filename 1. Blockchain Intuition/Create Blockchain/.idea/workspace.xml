@@ -39,22 +39,42 @@
       <updated>1584818520016</updated>
       <workItem from="1584818544909" duration="229000" />
       <workItem from="1584819856495" duration="4079000" />
-      <workItem from="1585008089108" duration="1596000" />
+      <workItem from="1585008089108" duration="1789000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the hash and is_chain_valid function to the blockain.py file">
+      <created>1585022786251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585022786251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the hash and is_chain_valid function to the blockain.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the hash and is_chain_valid function to the blockain.py file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="708" y="1815" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584818626039">
       <screen x="5" y="1440" width="2498" height="1440" />
     </state>
     <state x="708" y="1815" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1584818626039" />
+    <state x="749" y="1750" key="CommitChangelistDialog2" timestamp="1585022785459">
+      <screen x="5" y="1440" width="2498" height="1440" />
+    </state>
+    <state x="749" y="1750" key="CommitChangelistDialog2/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1585022785459" />
     <state x="-1181" y="1446" key="SettingsEditor" timestamp="1584820360180">
       <screen x="-2555" y="1440" width="2498" height="1440" />
     </state>
     <state x="-1181" y="1446" key="SettingsEditor/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@-2555.1440.2498.1440" timestamp="1584820360180" />
+    <state x="846" y="1893" key="Vcs.Push.Dialog.v2" timestamp="1585022794665">
+      <screen x="5" y="1440" width="2498" height="1440" />
+    </state>
+    <state x="846" y="1893" key="Vcs.Push.Dialog.v2/0.0.2498.1440/5.1440.2498.1440/-2555.1440.2498.1440/2565.1480.2560.1400@5.1440.2498.1440" timestamp="1585022794665" />
     <state x="-985" y="1627" key="com.intellij.ide.util.TipDialog" timestamp="1585008088891">
       <screen x="-2555" y="1440" width="2498" height="1440" />
     </state>
